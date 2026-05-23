@@ -1,10 +1,10 @@
-### Hi there 👋, Md. Toriqul Islam
+### Hi there 👋, This is Md. Toriqul Islam
 #### Web Developer & a System Engineer
 ![Web Developer & a System Engineer](https://pbs.twimg.com/profile_banners/4047863238/1779529309/600x200)
 
 I'm currently working as a Sr. Officer at a most valuable company's IT Department in Bangladesh & also a Full Stack Web Developer.
 
-Skills: HTML / CSS / JavaScript / REACT / PHP / LARAVEL
+Skills: Networking & System Engineering / HTML / CSS / JavaScript / REACT / PHP / LARAVEL
 
 - 🔭 I’m currently working on Food company 
 - 🌱 I’m currently learning Developing myself 
